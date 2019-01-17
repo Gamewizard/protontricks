@@ -1,3 +1,5 @@
+# A quick fork I made considering maintaining it depends on how much Python I rember when I start to go and hack on it 
+
 # protontricks
 A simple wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 
